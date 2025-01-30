@@ -221,7 +221,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(/images/demo.jpeg);
+    background: url(./images/demo.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -426,7 +426,7 @@ body {
 .circle-block {
     height: auto;   
     padding-top: 7rem;
-    background-image: url(/images/demo2.jpeg);
+    background-image: url(./images/demo2.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
